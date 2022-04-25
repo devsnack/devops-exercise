@@ -39,6 +39,13 @@ cd devops-exercise
 docker-compose up
 ```
 
+code just format import
+
+```local sh
+To improve code maybe we add routes as links to home page
+
+```
+
 ## Testing
 
 - Run `python tests.py`

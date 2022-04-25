@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-from flask import Flask
-from flask import make_response
-
 import os
 import json
+from flask import Flask
+
+from flask import make_response
+
 from werkzeug.exceptions import NotFound
 
 file_dirname = os.path.dirname(os.path.realpath(__file__))
