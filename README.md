@@ -34,7 +34,7 @@ docker run -p 5000:5000 -it devops-excercise
 Or, run docker-compose file and get same result
 
 ```local sh
-git clone Voteshield/devops-exercise.git
+git clone https://github.com/devsnack/devops-exercise.git
 cd devops-exercise
 docker-compose up
 ```
